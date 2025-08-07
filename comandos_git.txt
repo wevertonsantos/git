@@ -1,3 +1,4 @@
 git init : criação de um novo repositório instalando .git pasta
 git add (arquivo) : comando para adicionar o arquivo no git
 git status : comando para verificar o status do repositório
+git commit -m "seu texto aqui" : comando para enviar um arquivo com uma mensagem de texto
