@@ -25,3 +25,6 @@ git clone (repo) . : clona um repositório do github no diretório atual
 git rm (arquivo): remover um arquivo do repositório
 
 git log : acessar um log de modificações feitas no projeto
+
+git mv (arquivo) (para onde) : mover arquivo para outra pasta
+exemplo: git mv rodape.css css/rodape.css 
