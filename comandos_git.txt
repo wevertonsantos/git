@@ -28,3 +28,6 @@ git log : acessar um log de modificações feitas no projeto
 
 git mv (arquivo) (para onde) : mover arquivo para outra pasta
 exemplo: git mv rodape.css css/rodape.css 
+
+git mv (arquivo nome antigo) (arquivo nome novo) : serve para renomear arquivo
+exemplo : git mv rodap.css rodape.css
