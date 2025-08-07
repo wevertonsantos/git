@@ -21,3 +21,5 @@ git push -u origin main : enviando para a branch main
 git pull : sicronizar as alterações do repositório local para nossa branch
 
 git clone (repo) . : clona um repositório do github no diretório atual
+
+git rm (arquivo): remover um arquivo do repositório
