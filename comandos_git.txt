@@ -23,3 +23,5 @@ git pull : sicronizar as alterações do repositório local para nossa branch
 git clone (repo) . : clona um repositório do github no diretório atual
 
 git rm (arquivo): remover um arquivo do repositório
+
+git log : acessar um log de modificações feitas no projeto
