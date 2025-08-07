@@ -3,3 +3,4 @@ git add (arquivo) : comando para adicionar o arquivo no git
 git status : comando para verificar o status do repositório
 git commit -m "seu texto aqui" : comando para enviar um arquivo com uma mensagem de texto
 git branch -M main : criando uma branch (ramificação) chamada main que é onde o código correto (principal) está depositado
+git remote add origin : passo de sincronização para um repositório do git
