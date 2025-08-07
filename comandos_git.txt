@@ -4,6 +4,7 @@ git add . : comando que adiciona diversos arquivos de uma vez só
 git status : comando para verificar o status do repositório
 git commit -m "seu texto aqui" : comando para enviar um arquivo com uma mensagem de texto
 git commit a.txt -m "seu texto aqui" : comando para commitar um arquivo com uma mensagem de texto
+git commit -a -m "seu texto aqui" : enviando todos os arquivos para commit
 git branch -M main : criando uma branch (ramificação) chamada main que é onde o código correto (principal) será depositado
 git remote add origin (repositório https aqui): passo de sincronização para um repositório do git
 git push -u origin main : enviando para a branch main
