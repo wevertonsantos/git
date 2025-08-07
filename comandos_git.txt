@@ -1,5 +1,6 @@
 git init : criação de um novo repositório instalando .git pasta
 git add (arquivo) : comando para adicionar o arquivo no git
+git add . : comando que adiciona diversos arquivos de uma vez só
 git status : comando para verificar o status do repositório
 git commit -m "seu texto aqui" : comando para enviar um arquivo com uma mensagem de texto
 git branch -M main : criando uma branch (ramificação) chamada main que é onde o código correto (principal) será depositado
