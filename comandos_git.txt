@@ -15,4 +15,5 @@ git remote add origin (repositório https aqui): passo de sincronização para u
 repositório do git
 git remote -v : verifica as origins adicionadas
 
+git push : enviando todos os commits para o repositório
 git push -u origin main : enviando para a branch main
