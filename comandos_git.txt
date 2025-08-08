@@ -56,3 +56,5 @@ git tag -a <nome da tag> -m "<msg>" : serve como checkpoint de uma branch (demar
 git tag : lista todas as tags
 git show <nome tag> : verificar uma tag
 git checkout <nome tag> : trocar de tags
+git push origin --tags : enviando todas as tags para o repo
+git push origin <nome da tag> : enviando as tags para o repo
