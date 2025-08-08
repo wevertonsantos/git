@@ -76,3 +76,5 @@ git shortlog : um log resumido do projeto
 git clean : verificar e limpar arquivos não estão sendo trackeados
 
 git gc : limpar arquivos que não são necessários
+
+git fsck : verifica a integridade de arquivos e a conectividade com o repo
