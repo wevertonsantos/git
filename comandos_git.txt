@@ -63,3 +63,4 @@ git push origin <nome da tag> : enviando as tags para o repo
 git fetch -a: apresentando todos os branchs e tags
 
 git submodule add <url> <diretorio> : serve para criar um projeto externo (por exemplo: uma biblioteca externa)
+git push --recurse-submodules=on-demand : atualizando submódulo
