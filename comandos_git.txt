@@ -44,3 +44,5 @@ arquivo - .gitignore - para ignorar arquivos
 git reset --hard origin/(branch): desfazer todas as alterações do branch (commits) e retornar ao estado inicial
 
 git merge <nome branch> : para unir branchs
+
+git stash : salvar o código em algum lugar e retornar ao código padrão
