@@ -68,5 +68,5 @@ git push --recurse-submodules=on-demand : atualizando submódulo
 git show : da informação do branch atual e os commits
 
 git diff : exibir diferenças do branch atual com repo remoto
-git diff <arquivo a> <arquivo b> : verificando as diferenças de um branch 
+git diff HEAD:<arquivo a> <arquivo b> : verificando as diferenças de um branch 
 git diff <branch>
