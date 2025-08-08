@@ -80,3 +80,5 @@ git gc : limpar arquivos que não são necessários
 git fsck : verifica a integridade de arquivos e a conectividade com o repo
 
 git reflog : vai mapear todos os seus passos no repositório
+
+git archive --format zip --output <nome do arquivo>.zip <nome do branch> : transformar o repo em um arquivo compactado
