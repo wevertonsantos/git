@@ -35,3 +35,5 @@ exemplo : git mv rodap.css rodape.css
 git checkout (arquivo) : retornando alterações para o padrão do arquivo
 
 arquivo - .gitignore - para ignorar arquivos
+
+git reset --hard origin/(branch): desfazer todas as alterações do branch (commits) e retornar ao estado inicial
