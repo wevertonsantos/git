@@ -72,3 +72,5 @@ git diff HEAD:<arquivo a> <arquivo b> : verificando as diferenças de um branch
 git diff <branch>
 
 git shortlog : um log resumido do projeto
+
+git clean : verificar e limpar arquivos não estão sendo trackeados
