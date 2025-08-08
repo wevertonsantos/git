@@ -54,3 +54,5 @@ git stash drop <número da stash> : removendo stash por número
 
 git tag -a <nome da tag> -m "<msg>" : serve como checkpoint de uma branch (demarcar estágios do desenvolvimento de algum recurso)
 git tag : lista todas as tags
+git show <nome tag> : verificar uma tag
+git checkout <nome tag> : trocar de tags
