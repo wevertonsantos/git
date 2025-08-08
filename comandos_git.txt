@@ -58,3 +58,5 @@ git show <nome tag> : verificar uma tag
 git checkout <nome tag> : trocar de tags
 git push origin --tags : enviando todas as tags para o repo
 git push origin <nome da tag> : enviando as tags para o repo
+
+git fetch -a: apresentando todos os branchs e tags
