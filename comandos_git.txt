@@ -11,6 +11,7 @@ git commit -a -m "seu texto aqui" : enviando todos os arquivos para commit
 
 git branch : mostra todas as branchs
 git branch -M main : criando uma branch (ramificação) chamada main que é onde o código correto (principal) será depositado
+git branch <nome> : criando uma nova branch
 
 git remote add origin (repositório https aqui): passo de sincronização para um 
 repositório do git
