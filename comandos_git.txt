@@ -64,3 +64,5 @@ git fetch -a: apresentando todos os branchs e tags
 
 git submodule add <url> <diretorio> : serve para criar um projeto externo (por exemplo: uma biblioteca externa)
 git push --recurse-submodules=on-demand : atualizando submódulo
+
+git show : da informação do branch atual e os commits
