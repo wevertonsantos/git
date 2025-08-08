@@ -48,3 +48,4 @@ git merge <nome branch> : para unir branchs
 git stash : salvar o código em algum lugar e retornar ao código padrão
 git stash list : verificar todas as stashs criadas
 git stash apply <número da stash> : recuperando e receber dados da stash
+git stash show -p <número da stash> : mostra as alterações da stash
