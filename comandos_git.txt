@@ -42,3 +42,5 @@ git checkout -b <nome branch> : mudando e criando nova branch tudo junto
 arquivo - .gitignore - para ignorar arquivos
 
 git reset --hard origin/(branch): desfazer todas as alterações do branch (commits) e retornar ao estado inicial
+
+git merge <nome branch> : para unir branchs
