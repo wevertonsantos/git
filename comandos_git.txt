@@ -51,3 +51,6 @@ git stash apply <número da stash> : recuperando e receber dados da stash
 git stash show -p <número da stash> : mostra as alterações da stash
 git stash clear : removendo todas as stashs
 git stash drop <número da stash> : removendo stash por número
+
+git tag -a <nome da tag> -m "<msg>" : serve como checkpoint de uma branch (demarcar estágios do desenvolvimento de algum recurso)
+git tag : lista todas as tags
