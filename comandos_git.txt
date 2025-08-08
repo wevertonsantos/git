@@ -46,3 +46,4 @@ git reset --hard origin/(branch): desfazer todas as alterações do branch (comm
 git merge <nome branch> : para unir branchs
 
 git stash : salvar o código em algum lugar e retornar ao código padrão
+git stash list : verificar todas as stashs criadas
