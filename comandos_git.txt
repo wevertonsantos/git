@@ -37,6 +37,7 @@ exemplo : git mv rodap.css rodape.css
 
 git checkout (arquivo) : retornando alterações para o padrão do arquivo
 git checkout <nome> : mudando para outra branch
+git checkout -b <nome> : mudando e criando nova branch tudo junto
 
 arquivo - .gitignore - para ignorar arquivos
 
