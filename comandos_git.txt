@@ -70,3 +70,5 @@ git show : da informação do branch atual e os commits
 git diff : exibir diferenças do branch atual com repo remoto
 git diff HEAD:<arquivo a> <arquivo b> : verificando as diferenças de um branch 
 git diff <branch>
+
+git shortlog : um log resumido do projeto
