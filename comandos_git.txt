@@ -74,3 +74,5 @@ git diff <branch>
 git shortlog : um log resumido do projeto
 
 git clean : verificar e limpar arquivos não estão sendo trackeados
+
+git gc : limpar arquivos que não são necessários
