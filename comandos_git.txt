@@ -82,3 +82,5 @@ git fsck : verifica a integridade de arquivos e a conectividade com o repo
 git reflog : vai mapear todos os seus passos no repositório
 
 git archive --format zip --output <nome do arquivo>.zip <nome do branch> : transformar o repo em um arquivo compactado
+
+git rebase <branch que irá ser mandada para produção> <branch que tem as alterações com commits ruins> : serve para selecionar os commits mais interessantes para branch que será levada para produção
